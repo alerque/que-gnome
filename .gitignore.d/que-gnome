@@ -1,5 +1,7 @@
 *
 !/.config
+!/.config/autostart
+!/.config/autostart/rotomatic.desktop
 !/.config/dconf
 !/.config/dconf/user
 !/.config/gtk-3.0
