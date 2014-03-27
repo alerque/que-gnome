@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Rotomatic
-Comment=Utility to map Griffin Powermate input signals to control system audio
-Exec=rotomatic
-Terminal=false
-Type=Application
