@@ -1,0 +1,14 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/usr/share/themes/dorian-theme-3.10/gtk-2.0/gtkrc"
+
+style "user-font" {
+	font_name = "Linux Biolinum 10"
+}
+
+widget_class "*" style "user-font"
+
+gtk-font-name="Linux Biolinum 10"
+
+include "/home/caleb/.gtkrc.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
